@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSLGTfnjuI0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PIM_RPA_Botrunner\\Downloads\\Iframe3\\PCF-ResponsiveIFrameControl-main\\PCF-ResponsiveIFrameControl-main\\responsiveIFrameControl\\responsiveiFramePCFControl.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PIM_RPA_Botrunner\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\PIM_RPA_Botrunner\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\PIM_RPA_Botrunner\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.43.6\\microsoft.powerapps.msbuild.pcf.1.43.6.nupkg.sha512"
+  ],
+  "logs": []
+}

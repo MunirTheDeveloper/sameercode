@@ -1,0 +1,19 @@
+/* Parent container - full height */
+div.flexbox {
+    height: 100%;
+}
+
+/* Main control wrapper - fixed height */
+div.customControl {
+    width: 100%;
+    height: 400px; /* fixed height, adjust as needed */
+    max-width: 100%;
+    overflow: hidden; /* optional */
+}
+
+/* iframe - fill parent width and height */
+.iFrameControl {
+    width: 100%;
+    height: 100%;
+    border: none; /* remove border */
+}

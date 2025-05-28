@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="NghiemDoan" constructor="responsiveIframePCFControl" version="0.0.3" display-name-key="responsiveIframePCFControl" description-key="responsiveIframePCFControl description" control-type="standard" api-version="1.3.16">
+    <external-service-usage enabled="false"/>
+    <property name="source" display-name-key="Source" description-key="Source" of-type="SingleLine.URL" usage="bound" required="true" default-value="https://www.bing.com/"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+      <css path="css/responsiveIframePCFControl.css" order="1"/>
+    </resources>
+    <feature-usage/>
+    <built-by name="pac" version="1.43.6"/>
+  </control>
+</manifest>
